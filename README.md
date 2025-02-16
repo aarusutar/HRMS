@@ -35,7 +35,7 @@ HTML/CSS
 
 Angular Material for UI components
 
-Database:
+<h>Database:</h>
 MySQL
 
 H2

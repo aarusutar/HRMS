@@ -2,7 +2,7 @@
 HumanResourceManagementSystem
 Project Description: The Human Resource Management System (HRMS) is a comprehensive software solution developed using Java and Spring Boot for the backend, and Angular for the frontend. This system aims to streamline various HR processes within an organization, offering an efficient platform for managing employee information, leave, and basic employee management functionalities.
 
-Key Features:<b>
+<h4>Key Features:</h4>
 User Authentication and Authorization:
 
 Secure user authentication with role-based access control to ensure data confidentiality and integrity. Admin and employee roles with different levels of access and privileges.

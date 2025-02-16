@@ -35,12 +35,12 @@ HTML/CSS
 
 Angular Material for UI components
 
-<h>Database:</h>
+<h2>Database:</h2>
 MySQL
 
 H2
 
-Development Tools:
+<h2>Development Tools:</h2>
 Eclipse for Java development
 
 Visual Studio Code for Angular development

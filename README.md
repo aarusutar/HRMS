@@ -17,6 +17,7 @@ Leave application submission by employees with various leave types (e.g., vacati
 
 <h2>Technology Stack:</h2>
 Backend:
+<br>
 Java
 
 Spring Boot

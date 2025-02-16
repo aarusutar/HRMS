@@ -15,7 +15,7 @@ Leave Management:
 
 Leave application submission by employees with various leave types (e.g., vacation, sick leave, maternity/paternity leave). Approval workflow for leave requests, with notifications to relevant managers for review and decision-making.
 
-Technology Stack:
+<h2>Technology Stack:</h2>
 Backend:
 Java
 

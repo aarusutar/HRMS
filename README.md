@@ -26,7 +26,7 @@ Hibernate ORM (Object-Relational Mapping)
 
 RESTful APIs for communication with the frontend
 
-Frontend:
+<h2>Frontend:</h2>
 Angular
 
 TypeScript
